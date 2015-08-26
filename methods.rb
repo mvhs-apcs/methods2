@@ -26,4 +26,16 @@ module Methods
 	#
 	# TODO - write monkey_trouble?
 
+	# sum_double
+	#
+	# Given two int values, return their sum. Unless the two values are the same,
+	# then return double their sum. 
+	#
+	# ==== Attributes 
+	# 
+	# * a - an integer
+	# * b - an integer
+	#
+	# TODO - write sum_double
+
 end
