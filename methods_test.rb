@@ -4,7 +4,7 @@ Minitest::Reporters.use! Minitest::Reporters::SpecReporter.new
 
 require_relative 'methods'
 
-class MethodsTest < MiniTest::Unit::TestCase
+class MethodsTest < MiniTest::Test
 	def setup
 		@m = Class.new do
      include Methods
