@@ -1,7 +1,8 @@
 module Methods
 	
 	
-	# sleep_in? decides if a student should sleep in.
+	# sleep_in?
+	#
 	# Students sleep in if it is not a weekday or we're on vacation. 
 	#
 	# ==== Attributes 
