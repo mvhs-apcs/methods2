@@ -14,10 +14,10 @@ module Methods
 
 	# monkey_trouble?
 	#
-	# We have two monkeys, a and b, and the parameters 
-	# a_smile and b_smile indicate if each is smiling. 
-	# We are in trouble if they are both smiling or if 
-	# neither of them is smiling. Return true if we are in trouble.
+	# We have two monkeys, a and b, and the parameters a_smile and b_smile 
+	# indicate if each is smiling. 
+	# We are in trouble if they are both smiling or if neither of them is smiling.
+	# Return true if we are in trouble.
 	#
 	# ==== Attributes 
 	# 
