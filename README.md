@@ -1,4 +1,4 @@
-# Methods
+# Methods2
 
 ## Setup
 
@@ -25,11 +25,11 @@ Install win32console
 Run the entire test suite
 
 ```
-    $ ruby methods_test.rb
+    $ ruby methods2_test.rb
 ```
 
 Run only a specific test
 
 ```
-    $ ruby methods_test.rb --name type_test_method_name_here
+    $ ruby methods2_test.rb --name type_test_method_name_here
 ```
