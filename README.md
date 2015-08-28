@@ -10,7 +10,7 @@ Install ruby dependencies
     $ bundle install
 ``` 
 
-### On Windows Only:
+### On Windows (and only at home):
 
 [Install ansicon](http://softkube.com/blog/ansi-command-line-colors-under-windows) (if not already installed)
 
