@@ -1,38 +1,22 @@
 # Methods2
 
-## Setup
-
-### All Platforms:
-
-Install ruby dependencies
-
-```
-    $ bundle install
-``` 
-
-### On Windows (and only at home):
-
-[Install ansicon](http://softkube.com/blog/ansi-command-line-colors-under-windows) (if not already installed)
-
-Install win32console
-
-```
-    $ gem install win32console
-```
-
 ## Testing
 
-Run the entire test suite
+Run the tests
 
 ```
-    $ ruby methods2_test.rb
+$ ruby methods2_test.rb
 ```
 
-Run only a specific test
+## Goal
 
-```
-    $ ruby methods2_test.rb --name type_test_method_name_here
-```
+
+
+
+
+
+
+
 
 ## Goal
 
