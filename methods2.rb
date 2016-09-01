@@ -1,3 +1,18 @@
+########################################
+#
+# Methods2
+#	
+#	Instructions and definitions here: 
+#	
+#	github.com/mvhs-apcs/methods2
+#
+#	Write the tests first!
+#	Then implement each function.
+#
+#	Don't forget to commit after each
+#	method.
+#
+########################################
 
 
 # TODO - write elevenish?
