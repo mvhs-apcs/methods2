@@ -1,15 +1,5 @@
 # Methods2
 
-## Testing
-
-Run the tests
-
-```
-$ ruby methods2_test.rb
-```
-
-## Goal
-
 Implement the following methods. 
 
 **Start with the tests**, then use them to create your method.
