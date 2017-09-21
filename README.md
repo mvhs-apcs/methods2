@@ -1,4 +1,37 @@
-# Methods2
+## First Time Computer Setup
+
+Install a package named `bundler` using the ruby program `gem`.
+
+```
+    $ gem install bundler
+```
+
+If you get a `connection refused` error (likely because of the school filter),
+run this command instead.
+
+```
+    $ gem install bundler --source http://rubygems.org
+```
+
+
+## First Time Project Setup
+
+In your project folder, install the testing packages using `bundler`.
+
+```
+    $ bundle
+```
+
+## Testing Your Code
+
+Run the tests
+
+```
+    $ ruby test.rb
+```
+
+
+## Instructions
 
 Implement the following methods. 
 
@@ -176,7 +209,7 @@ DO NOT print inside of methods.
     #### Parameters and Return
     Determine the **parameters** and **return type** of the method yourself from the problem statement.
 8. `first_last_six?`
-	Given an array of integers, return true if 6 appears as either the first or last element in the array. The array will be length 1 or more.
+  Given an array of integers, return true if 6 appears as either the first or last element in the array. The array will be length 1 or more.
 
     [Learn about Ruby Arrays and how they can be used](https://ruby-doc.org/core-2.2.0/Array.html).
 
