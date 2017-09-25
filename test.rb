@@ -1,4 +1,4 @@
-require 'test_setup'
+require './test_setup'
 require './methods2'
 
 
